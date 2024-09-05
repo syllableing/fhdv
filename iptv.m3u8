@@ -38,8 +38,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="央视频",CCTV5+ 体育赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 group-title="央视频" tvg-id="CGTN纪录",CGTN 纪录
-#http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024182303.m3u8
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 group-title="教育频道",CETV1 中国教育
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
 #http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
